@@ -1,0 +1,28 @@
+body { 
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+}
+h2{
+    text-align: center; }
+form { 
+    width: 300px; text-align: left; 
+    margin: 50px;  padding: 20px; 
+    border-radius: 5px;
+    border: 1px solid black; 
+}
+input { 
+    /* Use a smaller percentage so padding doesn't push it out */
+    width: 90%;  padding: 10px; 
+    margin-bottom: 15px;
+}
+button { 
+    width: 98%;   padding: 10px; 
+    border-radius: 5px;
+    border: none;
+    background-color: #276228;
+}
+button:hover {
+    background-color: #488e4c;
+}
+
+
